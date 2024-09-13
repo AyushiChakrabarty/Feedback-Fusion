@@ -1,8 +1,0 @@
-1 = NC = no concerns, can send a message thanking them for filling out survey
-
-2 = LM = common concern regarding learning material/exam stress/reviewing pre-req material for which we can send some tips on learning strategies
-
-3 = TM = time management or procrastinating, can send some tips on time management
-
-4 = OT = other, so instructor needs to write a custom email to student (eg - student mentions a disability, safety concern, dean of students, student can't take exam at scheduled time, technical issue, etc)
-
